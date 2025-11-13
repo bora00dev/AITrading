@@ -1,0 +1,4 @@
+repository "AI-Powered Trading Advisor/AI-Powered Trading Advisor@5773950898938@cloud"
+  path "/"
+    br "/main"
+    co "/main"
